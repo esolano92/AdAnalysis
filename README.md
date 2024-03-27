@@ -42,6 +42,7 @@ The primary objective of this analysis is to evaluate the effectiveness of diffe
 
 The analysis includes visualizations to provide insights into the performance of ad campaigns over time.
 The visualizations help in understanding the variation in click rates and identifying any patterns or trends.
+![image](https://github.com/esolano92/-AdAnalysis/assets/78500300/b2a06d40-f0f6-4ac3-bb18-dca70a6a3c0b)
   
 ## Conclusion
 
@@ -49,10 +50,10 @@ Based on the analysis, recommendations regarding the choice between Ad A and Ad 
 
 ## Installation
 
-Ensure that you have Python and Jupyter Notebook installed on your system.
-Download the `ad_Analysis_(AB).ipynb` and `ad_clicks.csv` files from this repository.
-Open the Jupyter Notebook (`ad_Analysis_(AB).ipynb`) using Jupyter Notebook.
-Run each cell in the notebook sequentially to execute the code and generate the analysis results.
+- Ensure that you have Python and Jupyter Notebook installed on your system.
+- Download the `ad_Analysis_(AB).ipynb` and `ad_clicks.csv` files from this repository.
+- Open the Jupyter Notebook (`ad_Analysis_(AB).ipynb`) using Jupyter Notebook.
+- Run each cell in the notebook sequentially to execute the code and generate the analysis results.
 
 ## Dependencies
 - Python 3.12.0
